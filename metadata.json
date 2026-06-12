@@ -1,0 +1,6 @@
+{
+  "name": "ELEVATE Brand Campaign Planner",
+  "description": "Un outil de planification de branding premium et de direction artistique pour le lancement de la marque de parfum de luxe ELEVATE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
